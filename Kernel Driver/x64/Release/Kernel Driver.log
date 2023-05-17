@@ -1,0 +1,9 @@
+﻿  Building 'Kernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Core.cpp
+  IO Header.cpp
+  P2V.cpp
+  Main.cpp
+  Utils.cpp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  Kernel Driver.vcxproj -> C:\Users\Administrator\Desktop\EFT-External-main\EFT-External-main\Kernel Driver\x64\Release\Kernel.sys
+  Driver is 'Universal'.
